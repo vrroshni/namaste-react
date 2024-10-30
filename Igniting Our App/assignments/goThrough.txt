@@ -1,0 +1,10 @@
+Caret and tilde in package.json
+read about bundlers and its differences
+read about package-lock.json and things inside it (integrity)
+transitive dependency
+read about package managers
+why type-module in script tag
+Consistent hashing (parcel)
+Differential bundling
+tree shaking
+
