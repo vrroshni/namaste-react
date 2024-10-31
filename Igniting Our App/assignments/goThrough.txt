@@ -5,6 +5,8 @@ transitive dependency
 read about package managers
 why type-module in script tag
 Consistent hashing (parcel)
-Differential bundling
+Differential bundlingP
 tree shaking
+browserslist in package.json - last 12 Chrome version 
+explore https://parceljs.org/
 
