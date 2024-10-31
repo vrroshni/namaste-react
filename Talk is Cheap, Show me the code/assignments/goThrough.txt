@@ -1,1 +1,7 @@
 
+config driven UI
+infinite scrolling
+never use index as key
+Index as key is an antipattern
+
+
