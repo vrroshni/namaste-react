@@ -1,0 +1,8 @@
+react file structure(read blog)
+ use both named exports and default exports in a component file
+react fiber architecture
+incremental rendering
+
+
+
+
